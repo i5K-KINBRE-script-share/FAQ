@@ -13,3 +13,14 @@ After installation, click on the "+" in the bottom left corner. Select SFTP for 
 
 Doubleclick on the bookmark and click "Allow".
 
+
+Download and install Notepad++ http://notepad-plus-plus.org/download/v6.5.5.html. 
+
+Select edit->preferences on Cyberduck. Make Notepad++ your editor.
+
+
+Now you can edit files using Cyberduck.
+
+You can also download or upload files using Cyberduck
+
+
