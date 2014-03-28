@@ -45,6 +45,23 @@ Next type your password (the same one you use to log onto KSOL) into the termina
 
 ![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/windows_password.png)
 
+##Basic Unix commands
+
+A few simple cammands can be very useful for using Beocat. These include:
+
+###tab to autocomplete
+
+If you are typing a path into the commandline you can start typing and if the start of the path is unique the terminal will finish the path for you. Otherwise it will complete part of the path and print all possible ways to finish the path on your screen.
+
+
+##Up and down arrows
+
+
+
+###cd
+
+Change directory 
+
 
 
 
