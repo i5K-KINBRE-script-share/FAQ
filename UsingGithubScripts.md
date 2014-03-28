@@ -21,7 +21,7 @@ You should change directories (cd) into your copy of the Git repository and type
     
 Your version will be automatially updated to the most recent version.
 
-For example to update my copy of RNA-Seq-annotation-and-comparison I woudl type:
+For example to update my copy of RNA-Seq-annotation-and-comparison I would type:
 
     cd RNA-Seq-annotation-and-comparison
     git pull
