@@ -17,9 +17,17 @@ Doubleclick on the bookmark and click "Allow".
 
 Download TextWrangler http://www.barebones.com/products/textwrangler/download.html. Select Cyberduck->preferences on Cyberduck. Make TextWrangler your editor.
 
+![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/select_textwrangler.png)
+
 Now you can edit files using Cyberduck. 
 
+![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/start_edit_mac.png)
+
+![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/edit_mac.png)
+
 You can also download or upload files using Cyberduck.
+
+![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/download_mac.png)
 
 
 ##On Windows
