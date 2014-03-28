@@ -1,11 +1,7 @@
 ##Installing 
 
 
-###On Macs
-
-Download Cyberduck from http://cyberduck.io/. If you do not have a recent enough version of the Mac OS you can find an older version of Cyberduck here http://cyberduck.io/changelog/.
-
-###On Windows
+###On Windows and Mac
 
 Download Cyberduck from http://cyberduck.io/. If you do not have a recent enough version of the OS you can find an older version of Cyberduck here http://cyberduck.io/changelog/.
 
@@ -16,6 +12,17 @@ After installation, click on the "+" in the bottom left corner. Select SFTP for 
 Doubleclick on the bookmark and click "Allow".
 
 ![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/allow.png)
+
+##On Mac
+
+Download TextWrangler http://www.barebones.com/products/textwrangler/download.html. Select Cyberduck->preferences on Cyberduck. Make TextWrangler your editor.
+
+Now you can edit files using Cyberduck. 
+
+You can also download or upload files using Cyberduck.
+
+
+##On Windows
 
 Download and install Notepad++ http://notepad-plus-plus.org/download/v6.5.5.html. 
 
@@ -30,7 +37,7 @@ Now you can edit files using Cyberduck.
 
 ![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/editing_notpad.png)
 
-You can also download or upload files using Cyberduck
+You can also download or upload files using Cyberduck.
 
 ![Alt text](https://raw.githubusercontent.com/i5K-KINBRE-script-share/FAQ/master/images/upload_download_windows.png)
 
