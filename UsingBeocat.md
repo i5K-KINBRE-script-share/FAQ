@@ -56,11 +56,53 @@ If you are typing a path into the commandline you can start typing and if the st
 
 ##Up and down arrows
 
+Use the up and down arrows on your keyboard to find previous commands. Press enter to execute them.
 
+##cd
 
-###cd
+Change directories with "cd".
 
-Change directory 
+  cd [directory]
+  
+Example:
+
+  cd /homes/bioinfo/bioinfo_software
+  
+##ls
+
+List the contents of the current directory by typing "ls".
+
+  ls [directory]
+  
+Example:
+
+  ls /homes/bioinfo/bioinfo_software
+  
+##less,head,tail
+
+Use "less" to read a file. Use up and down arrows to read the file. Type "q" to exit.
+
+  less [filename]
+  
+Example:
+
+  less /homes/bioinfo/pipeline_datasets/RNA-SeqAlign/cell_line_reads_DE.txt
+  
+Use "head" to read the first few lines of a file.
+
+  head /homes/bioinfo/pipeline_datasets/RNA-SeqAlign/MB468_paired-end_RNA-seq_subsampled_2.fastq
+  
+Use "tail" to read the last few lines of a file.
+
+  tail [filename]
+  
+Example:
+
+  tail /homes/bioinfo/pipeline_datasets/RNA-SeqAlign/MB468_paired-end_RNA-seq_subsampled_2.fastq
+  
+
+  
+
 
 
 
