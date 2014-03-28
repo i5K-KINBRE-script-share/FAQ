@@ -108,6 +108,8 @@ Example:
   tail /homes/bioinfo/pipeline_datasets/RNA-SeqAlign/MB468_paired-end_RNA-seq_subsampled_2.fastq
 ```  
 
+If you would like a quick primer on basic linux commands try these 10 minute lessons from Software Carpentry http://software-carpentry.org/v4/shell/index.html. For Beocat basics see http://support.cis.ksu.edu/BeocatDocs/GettingStarted.
+
   
 
 
