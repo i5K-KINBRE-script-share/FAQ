@@ -19,3 +19,8 @@ https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatEditingTransfer
 
 See https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatOffCampus.md
 
+##Finding NGS workflows and tutorials for Beocat
+
+See http://i5k-kinbre-script-share.github.io/transcriptome-and-genome-assembly/
+
+
