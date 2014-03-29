@@ -7,15 +7,15 @@ Frequently asked questions about using Github scripts or working on Beocat
 
 See https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/UsingGithubScripts.md
 
-##Getting started and logging in
+##Getting started and logging in to Beocat or an SGE cluster
 
 See https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/UsingBeocat.md
 
-##Uploading, downloading and editing files on Beocat
+##Uploading, downloading and editing files on Beocat or an SGE cluster
 
 https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatEditingTransferingFiles.md
 
-##Trouble logging in?
+##Trouble logging onto Beocat?
 
 If you are having trouble logging in on campus make sure you are connected the ksuwireless rather than guest. To login to Beocat from off campus you will need to VPN into the network. See the following link for instructions.
 
@@ -26,11 +26,11 @@ http://www.k-state.edu/its/security/vpn/
 
 See http://i5k-kinbre-script-share.github.io/transcriptome-and-genome-assembly/
 
-##Helpful Beocat commands
+##Helpful Beocat or an SGE cluster commands
 
 See: https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatHelpfulCommands.md
 
-##Report a new issue
+##Report a new issue about these scripts
 
 If your question was not answered here see the link below
 
