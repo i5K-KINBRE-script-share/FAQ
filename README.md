@@ -26,6 +26,10 @@ http://www.k-state.edu/its/security/vpn/
 
 See http://i5k-kinbre-script-share.github.io/transcriptome-and-genome-assembly/
 
+##Helpful Beocat commands
+
+See: https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatHelpfulCommands.md
+
 ##Report a new issue
 
 If your question was not answered here see the link below
