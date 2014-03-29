@@ -23,4 +23,10 @@ See https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatOffCampus.m
 
 See http://i5k-kinbre-script-share.github.io/transcriptome-and-genome-assembly/
 
+##Report a new issue
+
+If your question was not answered here see the link below
+
+See: https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/ReportIssues.md
+
 
