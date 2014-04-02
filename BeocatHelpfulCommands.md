@@ -21,10 +21,6 @@ To check all jobs in the queue or running type:
 
     qstat
     
-To check status  of only your jobs on BEOCAT type:
-
-    status
-    
 You will see a report similar to the following one:
 
     868261 0.02298 mira-tick. sheltonj     r     03/25/2014 13:57:50 long.q@scout25.beocat              1 
@@ -45,6 +41,14 @@ Job status can be either:
     T=Thresholding
     q=queued
     w=waiting
+
+    
+To check status  of only your jobs on BEOCAT type:
+
+    status
+    
+"status" will output a list of only your jobs that are waiting and/or a list of only your jobs that are running.
+    
 
 ##Running jobs
 
