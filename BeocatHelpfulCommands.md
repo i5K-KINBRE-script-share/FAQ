@@ -9,10 +9,13 @@ Useful options:
 
     #recieve emails at start and completion of jobs
     -m abe -M [myemail@gmail.com]
+    
     #memory and time requests
     -l mem=10G,h_rt=10:00:00
+    
     #redirect standard out
     -o [path]
+    
     #redirect standard error
     -e [path]
     
