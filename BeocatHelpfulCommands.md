@@ -50,7 +50,13 @@ To check status  of only your jobs on BEOCAT type:
 
     status
     
-"status" will output a list of only your jobs that are waiting and/or a list of only your jobs that are running.
+"status" will output a list of only your jobs that are waiting and/or a list of only your jobs that are running. Your output will look similar to this but you may also have a list of running jobs:
+
+    Waiting jobs for user: bioinfo
+     job-ID  # name                      submit time
+    --------------------------------------------------------
+    1436328 20 brain_rep1_map.sh         04/02/2014 17:06:13
+    1436329 20 adrenal_rep1_map.sh       04/02/2014 17:06:15
     
 
 ##Running jobs
