@@ -13,7 +13,7 @@ See https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/UsingBeocat.md
 
 ##Uploading, downloading and editing files on Beocat or an SGE cluster
 
-https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatEditingTransferingFiles.md
+For general instructions see https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/BeocatEditingTransferingFiles.md. For instructions on getting sequence data from your sequencing facillity, NCBI's FTP, or the Short Read Archive (SRA) see https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/GetRawData.md.
 
 ##Trouble logging onto Beocat?
 
