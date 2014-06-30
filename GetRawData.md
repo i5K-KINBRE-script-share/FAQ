@@ -79,7 +79,7 @@ tar -jxvf  *.tar.bz2
 
 ####If your files are from the Short Read Archive (SRA)
 
-Files stored on the NCBI Short Read Archive (SRA) need to be converted to fastq after downloading. The data in this example is from project http://www.ncbi.nlm.nih.gov/sra/SRX026694. It was also used as a dataset in Adam Roberts & Lior Pachter (2012) paper "Streaming fragment assignment for real-time analysis of sequencing experiments" you can find a link to this paper at http://suggestedbioinfo.blogspot.com/2012/11/expression-profiling-faster-more.html.
+Files stored on the NCBI Short Read Archive (SRA) need to be converted to fastq or the appropriate format after downloading. The data in this example is from project http://www.ncbi.nlm.nih.gov/sra/SRX026694. It was also used as a dataset in Adam Roberts & Lior Pachter (2012) paper "Streaming fragment assignment for real-time analysis of sequencing experiments" you can find a link to this paper at http://suggestedbioinfo.blogspot.com/2012/11/expression-profiling-faster-more.html.
 
 ```S
 #Use wget to download from the SRA
