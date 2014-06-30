@@ -86,9 +86,9 @@ Files stored on the NCBI Short Read Archive (SRA) need to be converted to fastq 
 
 wget http://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByExp/sra/SRX/SRX026/SRX026678/SRR065509/SRR065509.sra
 
-#Use the approriate data-dump program (e.g. fastq-dump for a fastq file like this one).
+#Use the approriate data-dump program (e.g. fastq-dump for a fastq file like this one). With fastq files you should use the `--split-3` flag in your command so that if the `.sra` file has paired end reads they will be decompressed into up to 3 files (forward, reverse, and unpaired).
 
-/homes/bioinfo/bioinfo_software/sratoolkit.2.3.5-ubuntu64/bin/fastq-dump SRR065509.sra
+/homes/bioinfo/bioinfo_software/sratoolkit.2.3.5-ubuntu64/bin/fastq-dump --split-3 SRR065509.sra
 
 #For more sra tool options type:
 
