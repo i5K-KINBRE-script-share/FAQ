@@ -2,7 +2,7 @@
 
 ###wget
 
-If your sequencing facility gives you an address (URL) to download your data from you can use wget. More examples of using wget can be found at http://www.gnu.org/software/wget/manual/html_node/Simple-Usage.html#Simple-Usage.
+If your sequencing facility gives you an address (URL) to download your data from you can use wget. To get the URL of the file you want you can right-click (control-click on Macs) on the hyperlink for the file and copy the link. More examples of using wget can be found at http://www.gnu.org/software/wget/manual/html_node/Simple-Usage.html#Simple-Usage.
 
 In this example assume I have a URL that points to a single file. In this case I can just `cd` to the directory I would like to store my data in and type `wget` followed by the URL.
 
