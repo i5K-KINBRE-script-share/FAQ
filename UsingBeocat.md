@@ -1,6 +1,6 @@
 ##Getting an account
 
-Email a request for a Beocat account go to https://account.beocat.cis.ksu.edu/user.
+To request a Beocat account go to https://account.beocat.cis.ksu.edu/user.
 
 ##Log onto Beocat
 
