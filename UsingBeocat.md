@@ -1,13 +1,6 @@
 ##Getting an account
 
-Email a request for a Beocat account to beocat@cis.ksu.edu. Include the following information:
-
-
-name: 
-department: 
-degree level: 
-research area:
-research advisor: 
+Email a request for a Beocat account go to https://account.beocat.cis.ksu.edu/user.
 
 ##Log onto Beocat
 
