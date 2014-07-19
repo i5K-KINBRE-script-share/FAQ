@@ -1,6 +1,6 @@
 ##Perl scripts on Beocat
 
-When learning to run Perl code you should save your code in plain text files on Beocat (the same way that you do for Bash shell scripts).
+When learning to run Perl code you should save your code in plain text files on Beocat (the same way that you do for Bash shell scripts). Save Perl scripts with the file extension `.pl`.
 
 Perl scripts should always start with the following lines:
 
