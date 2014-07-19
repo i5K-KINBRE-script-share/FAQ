@@ -6,7 +6,7 @@ Perl scripts should always start with the following lines:
 
 ```
 #!/usr/bin/perl
-#	USAGE: 
+# USAGE: 
 # DESCRIPTION: 
 use strict;
 use warnings;
