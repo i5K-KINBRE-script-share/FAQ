@@ -36,7 +36,7 @@ If your question was not answered here see the link below
 
 See: https://github.com/i5K-KINBRE-script-share/FAQ/blob/master/ReportIssues.md
 
-Using Trinity on Beocat:
+##Using Trinity on Beocat:
 
 Dong Hun Kim has made an excellent write up of how to install [Trinity on Beocat](https://github.com/kp5091/beocat-Trinity)
 
